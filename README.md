@@ -1,4 +1,4 @@
-# RetailManager
+# Retail Manager
 
 A demo retail management system.
 
