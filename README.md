@@ -1,5 +1,5 @@
 # Retail Manager
 
-A demo retail management system. Coded in C#/.NET.
+A demo retail management system coded in C#/.NET
 
-http://kth.me/projects/retailmanager/
+https://benjaminhook.dev/projects/retailmanager/
