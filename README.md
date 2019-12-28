@@ -2,4 +2,4 @@
 
 A demo retail management system coded in C#/.NET
 
-https://benjaminhook.dev/projects/retailmanager/
+https://benjaminhook.dev/projects/retail-manager/
